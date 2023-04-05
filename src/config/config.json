@@ -1,0 +1,4 @@
+{
+    "STRIPE_PUBLIC_KEY": "Public key for strapi",
+    "GOOGLE_CLIENT_ID": "Google client id"
+}

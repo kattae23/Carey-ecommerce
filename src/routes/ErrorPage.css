@@ -1,0 +1,30 @@
+/* ./ErrorPage.module.css */
+html,
+body {
+    padding: 0;
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+#error-page {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: calc( 100vh - 65vh);
+}
+
+.oppsh1 {
+    margin-bottom: 40px;
+    color: rgb(209, 60, 60);
+}
+
+.oppsh1-2 {
+    font-weight: 400;
+    font-size: 1.2rem;
+}
+
+.oppsh1-2:nth-last-child(1) {
+    font-weight: 300;
+}
