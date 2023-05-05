@@ -4,6 +4,7 @@ This ecommerce project built with React allows you to sell any type of product. 
 
 # Live Demo
 https://backend-server-ecommerce-production.up.railway.app/
+https://carey-ecommerce.surge.sh/
 
 ## Features
 
