@@ -3,7 +3,9 @@
 This ecommerce project built with React allows you to sell any type of product. It uses Strapi for payment processing, with a custom REST API implementation. It also includes Redux for state management, server-side image compression, and many other features.
 
 # Live Demo
+## Backend
 https://backend-server-ecommerce-production.up.railway.app/
+## Frontend
 https://carey-ecommerce.surge.sh/
 
 ## Features
